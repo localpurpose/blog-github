@@ -1,4 +1,7 @@
 title: About Life
-theme: minima
+remote_theme: pages-themes/hacker@v0.2.0
 author: localpurpose
 description: there about golang, python etc.
+
+plugins:
+- jekyll-remote-theme
